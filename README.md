@@ -1,1 +1,1 @@
-# CollatzExplorer
+# CollatzExplorer by Fraiolefano
