@@ -1,4 +1,3 @@
-// By Fraiolefano
 PVector startingPos;
 PVector currentPos;
 PVector originNumber;
